@@ -1,4 +1,7 @@
-[https://github.com/all-in-one-of/CGRUChinesization-Linux/tree/master/plugins/houdini](https://github.com/all-in-one-of/CGRUChinesization-Linux/tree/master/plugins/houdini)
+# [https://github.com/all-in-one-of/CGRUChinesization-Linux/tree/master/plugins/houdini](https://github.com/all-in-one-of/CGRUChinesization-Linux/tree/master/plugins/houdini)
+
+# [https://github.com/all-in-one-of/CGRUChinesization-Linux/tree/master/examples/houdini](https://github.com/all-in-one-of/CGRUChinesization-Linux/tree/master/examples/houdini)
+
 ##CGRU
 It is a Computer Graphics Tools Pack.
 Main its tools is Afanasy and Rules.
